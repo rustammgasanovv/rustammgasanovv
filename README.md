@@ -14,7 +14,7 @@
 
 
 - 🌱 I’m currently learning *Node.js/Express.js*.
-- 🔜 Mobile Development using *React Native*.
+- 🔜 Mobile Development using *Dart & Flutter*.
 - 📫 How to reach me *rustammgasanovv@gmail.com*.
   <br>
   <br>
@@ -70,7 +70,7 @@
     </td>
    <td align="center" width="96"> 
         <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" fill="#fff" alt="github" width="48" height="48"/> 
+            <img src="https://camo.githubusercontent.com/5ef90fb7e911654d9bcae25dc8d7e1f740c7301905815fffe5570ad3a4b845ed/68747470733a2f2f7374617469632d30302e69636f6e6475636b2e636f6d2f6173736574732e30302f6769746875622d69636f6e2d3230343878313938382d6a7a767a636632742e706e67" fill="#fff" alt="github" width="48" height="48"/> 
         </a>
         <br>GitHub
     </td>
@@ -107,7 +107,7 @@
         </td>
             <td align="center" width="96">
             <a href="https://tailwindcss.com/">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Bootstrap" />
+              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="Bootstrap" />
             </a>
             <br>Tailwind
         </td>
@@ -149,7 +149,7 @@
     </td>
      <td align="center" width="96">
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="48" height="48"/> 
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="express" width="48" height="48"/> 
         </a>
       <br>Express.js
     </td>
