@@ -70,7 +70,7 @@
     </td>
    <td align="center" width="96"> 
         <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="48" height="48"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" fill="#fff" alt="github" width="48" height="48"/> 
         </a>
         <br>GitHub
     </td>
