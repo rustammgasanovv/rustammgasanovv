@@ -14,7 +14,7 @@
 
 
 - 🌱 I’m currently learning *Node.js/Express.js*.
-- 🔜 Mobile Development using *Dart & Flutter*.
+- 🔜 Mobile Development using *React Native*.
 - 📫 How to reach me *rustammgasanovv@gmail.com*.
   <br>
   <br>
